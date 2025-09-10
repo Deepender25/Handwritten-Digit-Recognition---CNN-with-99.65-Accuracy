@@ -190,17 +190,30 @@ Trainable Parameters: 211,690 (826.91 KB)
 
 ### 📈 Training Progress
 
-The model achieved excellent convergence with the following training curve:
+The model achieved excellent convergence with outstanding training curves:
+
+![Training Curves](image.png)
+
+*Comprehensive training visualization showing model accuracy, loss, and combined metrics over 30 epochs*
+
+**What the charts show:**
+- **🎯 Rapid Convergence**: Model reaches >99% accuracy within first 5 epochs
+- **🔄 Stable Learning**: Both training and validation curves follow similar trajectories
+- **🛡️ No Overfitting**: Validation metrics closely track training metrics
+- **📉 Excellent Loss Reduction**: Loss drops from 3.5 to near 0.01
+- **⚖️ Well-Balanced**: No significant gap between training and validation performance
 
 **Epoch-by-Epoch Progress:**
-- **Epochs 1-5**: Rapid initial learning (86% → 99% accuracy)
+- **Epochs 1-5**: Rapid initial learning (30% → 99% accuracy)
 - **Epochs 6-15**: Fine-tuning and stabilization (99% → 99.3%)
 - **Epochs 16-20**: Learning rate reduction triggered
 - **Epochs 21-30**: Final optimization (99.65% peak accuracy)
 
 **Key Training Events:**
-- 📈 **Epoch 17**: Learning rate reduced to 0.0005 (validation accuracy jumped to 99.43%)
-- 🎯 **Epoch 29**: Peak validation accuracy of **99.65%** achieved
+- 📈 **Epoch 2**: Major accuracy jump from 30% to 95%
+- 🎯 **Epoch 3**: Reached 99% validation accuracy
+- ⚡ **Epoch 17**: Learning rate reduced, validation accuracy jumped to 99.43%
+- 🏆 **Epoch 29**: Peak validation accuracy of **99.65%** achieved
 - ⏹️ **Early stopping**: Activated after 7 epochs of no improvement
 
 ---
