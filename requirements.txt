@@ -1,0 +1,19 @@
+# Core ML and Data Science Libraries
+tensorflow>=2.10.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+pillow>=8.0.0
+opencv-python>=4.5.0
+kaggle>=1.5.12
+
+# Optional: For better visualization
+plotly>=5.0.0
