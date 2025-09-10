@@ -725,7 +725,7 @@ copies or substantial portions of the Software.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mnist-digit-recognition&type=Date)](https://star-history.com/Deepender25/Handwritten-Digit-Recognition---CNN-with-99.65-Accuracy)
+[![Star History Chart](https://api.star-history.com/svg?repos=Deepender25/Handwritten-Digit-Recognition---CNN-with-99.65-Accuracy)](https://star-history.com/Deepender25/Handwritten-Digit-Recognition---CNN-with-99.65-Accuracy)
 
 ---
 
