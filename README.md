@@ -723,20 +723,9 @@ copies or substantial portions of the Software.
 
 ---
 
-## 📞 Support
-
-Need help? Here are your options:
-
-- **📖 Documentation**: Check the [USAGE_GUIDE.md](USAGE_GUIDE.md)
-- **🐛 Issues**: Open a [GitHub Issue](https://github.com/yourusername/mnist-digit-recognition/issues)
-- **💬 Discussions**: Join [GitHub Discussions](https://github.com/yourusername/mnist-digit-recognition/discussions)
-- **📧 Email**: contact@yourproject.com
-
----
-
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mnist-digit-recognition&type=Date)](https://star-history.com/#yourusername/mnist-digit-recognition&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mnist-digit-recognition&type=Date)](https://star-history.com/Deepender25/mnist-digit-recognition&Date)
 
 ---
 
